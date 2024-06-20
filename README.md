@@ -10,7 +10,6 @@
 - 📫 How to reach me **saurab57322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-< p align="left">
  <a href="https://linkedin.com/in/saurab rajbanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurab rajbanshi" height="30" width="40" /></a>  
 <a href="https://fb.com/saurab.rajbanshi.73i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurab.rajbanshi.73i" height="30" width="40" /></a>
 <a href="https://instagram.com/rajbanshi_saurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajbanshi_saurab" height="30" width="40" /></a>
