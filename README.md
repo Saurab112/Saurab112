@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🌱 I’m currently learning **Python, ML and AI**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Python, DSA**
+- 💬 Ask me about **C#, OOPS**
 
 - 📫 How to reach me **saurab57322@gmail.com**
 
