@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurab Rajbanshi</h1>
-<h3 align="center">A passionate intermediate developer from Nepal.</h3>
+<h3 align="center">....</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
