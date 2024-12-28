@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurab Rajbanshi</h1>
+<h1 align="center">Hi 👋, I'm Saurab Rajbanshi.</h1>
 <h3 align="center">I'm a .NET developer, passionate about building code.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
@@ -6,8 +6,6 @@
 - 🌱 Currently Learning **ASP.NET**
 
 - 📫 Reach me at **saurab57322@gmail.com**
-
-- 🎯 Small achievement counts 
 
 <h3 align="left">Connect with me:</h3>
  <a href="https://linkedin.com/in/saurab-rajbanshi-95bb8425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurab rajbanshi" height="30" width="40" /></a>  
